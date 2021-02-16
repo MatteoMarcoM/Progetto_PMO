@@ -2,6 +2,7 @@
 Realised by Matteo Marco Montanari.
 Software for managing local passwords' databases for Windows. PMO project, invernal session 2020/2021.
 
+Specifica:
 Si progetti un applicativo software dotato di semplice interfaccia grafica per gestire dei database di password.
 1.	I database dovranno essere costituiti da una serie di record composti da: nome utente e relativa password.
 2.	La memorizzazione dei database sarà effettuata in locale su file di testo in formato JSON. 
