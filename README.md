@@ -1,4 +1,5 @@
 # PasswordManager
+Realised by Matteo Marco Montanari.
 Software for managing local passwords' databases for Windows. PMO project, invernal session 2020/2021.
 
 Si progetti un applicativo software dotato di semplice interfaccia grafica per gestire dei database di password.
